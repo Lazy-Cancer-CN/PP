@@ -1,0 +1,117 @@
+
+body {
+
+text-align: center;
+font-family: cursive, 'Zhi Mang Xing';
+
+}
+
+h1 { color: #66BFBF;
+    line-height: 2;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 { color: #66BFBF;
+    font-weight: normal;
+}
+
+p {
+    line-height:2;
+
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100 auto;
+}
+
+.top-container {
+
+  background:#E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.btn {
+	box-shadow: 0px 0px 0px 2px #94a5d6;
+	background:linear-gradient(to bottom, #879ec7 5%, #476e9e 100%);
+	background-color:#879ec7;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #879ec7 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+}
+
+.top-cloud3 {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.bottom-cloud3 {
+  position:absolute;
+  left: 250px;
+  bottom: 250px;
+}
+
+.calculator-img {
+width: 250px;
+float: right;
+margin-left: 30px;
+}
+
+.hot-sauce {
+  width: 250px;
+float: left;
+margin-right: 30px;
+}
+
+.school {
+width: 200px;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+}
